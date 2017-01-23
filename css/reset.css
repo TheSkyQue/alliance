@@ -1,0 +1,20 @@
+/* CSS Document */
+
+*{
+	margin:0;
+	padding: 0;
+}
+
+a{ text-decoration:none}
+ol,ul,li{list-style:none}
+body{
+	font: normal 12px/1.6em Microsoft Yahei,Tahoma,SimSun-ExtB;
+	color: #666;
+	min-width: 1240px;
+	margin: 0 auto;
+	background: #f7f8f8;
+	font-weight: normal;
+}
+em{
+	font-style: normal;
+}
